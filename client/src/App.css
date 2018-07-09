@@ -1,0 +1,33 @@
+
+.App {
+	text-align: center;
+	font-size: 24px;
+	margin-top: 5%;
+}
+
+.App-title {
+	font-size: 50px;
+}
+
+h1 {
+	margin-bottom: 30px;
+}
+
+button {
+	border-radius: 5px;
+	margin: 0 5px;
+	font-size: 20px;
+}
+
+div {
+	margin-bottom: 5px;
+}
+
+input {
+	padding: 10px;
+	font-size: 20px;
+}
+
+span {
+	margin: 5px;
+}
